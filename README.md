@@ -1,9 +1,7 @@
-# errandpay-service
 
 # @Author: Ebite Ogochukwu Zion
-# @Title: Team Lead, Spectrum MFB
 # @Date: August 1, 2023
-# @Purpose: This is a service Layer for Errand-pay API integration with our Core Banking Application. 
+# @Purpose: This is a service Layer for GO API/Web integration with Application. 
 
 ------------------
 # Summary Features
